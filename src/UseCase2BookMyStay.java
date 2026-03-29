@@ -19,7 +19,7 @@ abstract class BaseRoom {
 class Single extends BaseRoom { public Single() { super("Single", 100.0); } }
 class DoubleR extends BaseRoom { public DoubleR() { super("Double", 180.0); } }
 
-public class UseCase2HotelBookingApp {
+public class UseCase2BookMyStay {
     public static void main(String[] args) {
         System.out.println("Use Case 2: Domain Modeling");
 

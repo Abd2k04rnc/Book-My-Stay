@@ -2,7 +2,7 @@
  * Use Case 1: Simple Console Output
  * Goal: Verify environment setup and basic execution.
  */
-public class UseCase1HotelBookMyStay {
+public class UseCase1BookMyStay {
     public static void main(String[] args) {
         System.out.println("******************************************");
         System.out.println("  Welcome to Book My Stay Application!   ");
